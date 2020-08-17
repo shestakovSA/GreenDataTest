@@ -1,4 +1,4 @@
-# Тестовое задание GreenData
+# Записная книжка (API: randomuser.me)
 
 ## Обзор
 ![alt tag](https://github.com/shestakovSA/screen/blob/master/RPReplay_Final1597599422.gif "Пример работы приложения")​
